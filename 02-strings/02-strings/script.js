@@ -14,7 +14,7 @@ const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 const firstName = 'Andrea';
 const lastName = 'De Filippi'; 
 
-const fullName = firstName + "Andrea De Filippi" + lastName;
+const fullName = firstName + "Andrea" + lastName;
 console.log(fullName); // Output: "Andrea De Filippi "
 
 // 4. Imposta questa variabile utilizzando una proprietà
